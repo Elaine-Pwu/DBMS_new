@@ -10,7 +10,21 @@
     color: #111;
     size-adjust: auto;
   }
-  
+  .button {
+    border: none;
+    text-align: center;
+    display: inline-block;
+    /* font-size: xx-small; */
+  /*  margin: 4px 2px;*/
+    transition-duration: 0.4s;
+    cursor: pointer;
+        position:absolute; 
+        left: 1250px;
+        top: 1000px;
+        width: 120px;
+        height: 100px;
+
+  }
   .draggable-elements {
     display: flex;
     justify-content: space-between;

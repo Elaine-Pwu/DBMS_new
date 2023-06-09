@@ -140,7 +140,7 @@ background-image:url("drinks_cartoon_n.jpg");
 	<p>this is the information for the product</p>
 	<img src="cigar_n.jpg" width=100px height=100px>
 	<br>
-	<a href="newCigarrette.html">
+	<a href="practice_mode.html">
 	<button >info</button>
 	</a>
 	<button onclick="hidethisdialog2()">close</button>
